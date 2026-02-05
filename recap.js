@@ -25,8 +25,15 @@ const friends = ['sagy', 'onontho', 'raj'];
 
 // todo loops
 
-const numbers = [10, 20, 30, 40, 50];
-for (const num of numbers) {
-    console.log(num)
-}
+// const numbers = [10, 20, 30, 40, 50];
+// for (const num of numbers) {
+//     console.log(num)
+// }
 
+
+// let str = "Mississippi";
+// console.log(str.indexOf("i", 3));
+
+const str = "Hello";
+str[0] = "h";
+console.log(str);

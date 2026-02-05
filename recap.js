@@ -34,6 +34,6 @@ const friends = ['sagy', 'onontho', 'raj'];
 // let str = "Mississippi";
 // console.log(str.indexOf("i", 3));
 
-const str = "Hello";
-str[0] = "h";
-console.log(str);
+// const str = "Hello";
+// str[0] = "h";
+// console.log(str);
